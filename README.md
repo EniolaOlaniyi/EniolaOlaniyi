@@ -3,6 +3,8 @@
 
 ## 💻 About Me
 
+<img src="./https://lottie.host/embed/556bf19f-8d4e-44ba-8fec-7c649987892b/9I1AXKmENm.lottie" align="right" />
+
 - 🔭 I’m currently working on `Something Spectacular.`
 
 - 🌱 I’m currently learning `C++` 💻
