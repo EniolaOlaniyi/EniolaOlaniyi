@@ -22,7 +22,7 @@
 
 ## :heart: Let's get connected
 <p align="left">
-<a href="https://linkedin.com/in/eniola-olaniyi-b44b7437a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eniola-olaniyi-b44b7437a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eniola-olaniyi-b44b7437a" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eniola-olaniyi-b44b7437a" height="30" width="40" /></a>
 <a href="https://instagram.com/yourfellowelo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourfellowelo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CapriWasTaken" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="capriwastaken" height="30" width="40" /></a>
 </p>
