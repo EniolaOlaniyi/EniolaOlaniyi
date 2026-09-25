@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **eolaniyibusiness@gmail.com**
 
-- 📄 Know about my experiences through [Resume](https://docs.google.com/document/d/1pjgZ3NDyeG3s5KzXvf5GqBhhnpuvXRIWO-tio30LVBg/edit?usp=sharing)
+- 📄 Know about my experiences through [My Resume](https://docs.google.com/document/d/1pjgZ3NDyeG3s5KzXvf5GqBhhnpuvXRIWO-tio30LVBg/edit?usp=sharing)
 
 - ⚡ Fun fact: `I am a disney nerd` 🐭
 
